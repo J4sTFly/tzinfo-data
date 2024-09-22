@@ -592,6 +592,7 @@ module TZInfo
         linked_timezone 'US/Alaska'
         linked_timezone 'US/Aleutian'
         linked_timezone 'US/Arizona'
+        linked_timezone 'US/Arizona_MST'
         linked_timezone 'US/Central'
         linked_timezone 'US/East-Indiana'
         linked_timezone 'US/Eastern'

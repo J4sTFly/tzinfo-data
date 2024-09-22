@@ -188,6 +188,7 @@ module TZInfo
           c.timezone 'America/Panama', 269, 30, -1193, 15, 'EST - ON (Atikokan), NU (Coral H)'
           c.timezone 'America/Puerto_Rico', 11081, 600, -118991, 1800, 'AST - QC (Lower North Shore)'
           c.timezone 'America/Phoenix', 20069, 600, -16811, 150, 'MST - AZ (most areas), Creston BC'
+          c.timezone 'America/PhoenixMST', 20069, 600, -16811, 150, 'MST - AZ (most areas), Creston BC'
         end
         country 'CC', 'Cocos (Keeling) Islands' do |c|
           c.timezone 'Asia/Yangon', 1007, 60, 577, 6
@@ -865,6 +866,7 @@ module TZInfo
           c.timezone 'America/Denver', 47687, 1200, -125981, 1200, 'Mountain (most areas)'
           c.timezone 'America/Boise', 157009, 3600, -46481, 400, 'Mountain - ID (south), OR (east)'
           c.timezone 'America/Phoenix', 20069, 600, -16811, 150, 'MST - AZ (most areas), Creston BC'
+          c.timezone 'America/Phoenix_MST', 20069, 600, -16811, 150, 'MST - AZ (most areas), Creston BC'
           c.timezone 'America/Los_Angeles', 30647, 900, -212837, 1800, 'Pacific'
           c.timezone 'America/Anchorage', 44077, 720, -539641, 3600, 'Alaska (most areas)'
           c.timezone 'America/Juneau', 209887, 3600, -483911, 3600, 'Alaska - Juneau area'
